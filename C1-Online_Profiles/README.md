@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-[https://github.com/ebeckerle](ebeckerle - github)
+[ebeckerle - github](https://github.com/ebeckerle)
  
 ### LinkedIn
-[https://www.linkedin.com/in/elizabeth-beckerle-7b6713](Elizabeth Beckerle - LinkedIn)
+[Elizabeth Beckerle - LinkedIn](https://www.linkedin.com/in/elizabeth-beckerle-7b6713)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
